@@ -15,7 +15,7 @@ router.post('/suscribed/:mail',async(req,res)=>{
         service: 'gmail',
         auth: {
           user: 'lakshayjawa17@gmail.com',
-          pass: 'L@kshay12'
+          pass: 'password'
         }
       });
       
